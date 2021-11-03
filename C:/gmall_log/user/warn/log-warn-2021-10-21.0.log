@@ -1,0 +1,3 @@
+2021-10-21 11:32:23.287 [GuliHikariPool housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - GuliHikariPool - Retrograde clock change detected (housekeeper delta=28s905ms), soft-evicting connections from pool.
+2021-10-21 19:18:58.009 [GuliHikariPool housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - GuliHikariPool - Retrograde clock change detected (housekeeper delta=29s862ms), soft-evicting connections from pool.
+2021-10-21 22:43:59.951 [GuliHikariPool housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - GuliHikariPool - Retrograde clock change detected (housekeeper delta=29s843ms), soft-evicting connections from pool.
